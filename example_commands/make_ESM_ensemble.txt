@@ -1,0 +1,10 @@
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r1 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r2 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r3 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r4 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r5 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r6 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r7 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r8 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r9 @training_args/T7_ESM_ensemble.txt
+python3 code/train.py --split_dir data/T7RBD_all_separate/splits/ensemble_tr0.8_tu0.1_te0.1_r10 @training_args/T7_ESM_ensemble.txt

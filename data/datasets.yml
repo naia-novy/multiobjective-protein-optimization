@@ -1,0 +1,13 @@
+# list out dataset metadata
+T7RBD_all_separate:
+  ds_name: T7RBD_all_separate
+  ds_dir: data/T7RBD_all_separate
+  ds_fn: data/T7RBD_all_separate/all_separate_outputs.pkl
+  wt_aa: QVWSGSAGGGVSVTVSQDLRFRNIWIKCANNSWNFFRTGPDGIYFIASDGGWLRFQIHSNGLGFKNIADSRSVPNAIMVENE
+  pdb_path: data/T7RBD_all_separate/T7_trimer_Cterm.pdb
+T7RBD_dms_comb:
+  ds_name: T7RBD_dms_comb
+  ds_dir: data/T7RBD_dms_comb
+  ds_fn: data/T7RBD_dms_comb/dms_comb_separate.pkl
+  wt_aa: QVWSGSAGGGVSVTVSQDLRFRNIWIKCANNSWNFFRTGPDGIYFIASDGGWLRFQIHSNGLGFKNIADSRSVPNAIMVENE
+  pdb_path: data/T7RBD_all_separate/T7_trimer_Cterm.pdb
